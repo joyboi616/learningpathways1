@@ -3,10 +3,6 @@
 # ID: 200455316
 
 <p>
-Sorry teacher if the app is too heavy and has many files. I don't know why that happened.
-</p>
-
-<p>
 Dashboard of the Angular Application while performing a search:
 </p>
 <p>
