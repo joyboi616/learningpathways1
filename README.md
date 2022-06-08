@@ -1,4 +1,6 @@
-# learningpathways1
+# Learning Pathways 1
+# Steban Pulido
+# ID: 200455316
 
 <p>
 Dashboard of the Angular Application while performing a search:
