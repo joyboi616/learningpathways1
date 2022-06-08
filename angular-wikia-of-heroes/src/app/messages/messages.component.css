@@ -6,12 +6,16 @@ h2 {
 }
 
 .clear {
-  color: #333;
-  background-color: #eee;
+  color: #3d3d3d;
+  background-color: #e8e8e8;
   margin-bottom: 12px;
+  margin-top: 10px;
   padding: 1rem;
   border-radius: 4px;
   font-size: 1rem;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .clear:hover {
   color: white;

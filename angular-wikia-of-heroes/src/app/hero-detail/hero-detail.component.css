@@ -3,20 +3,30 @@ label {
   color: #435960;
   font-weight: bold;
 }
+span {
+  color: #435960;
+  font-weight: bold;
+}
 input {
   font-size: 1em;
   padding: .5rem;
 }
 button {
+  color: #3d3d3d;
+  background-color: #e8e8e8;
+  margin-bottom: 12px;
   margin-top: 20px;
   margin-right: .5rem;
-  background-color: #eee;
   padding: 1rem;
   border-radius: 4px;
   font-size: 1rem;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
 }
 button:hover {
-  background-color: #cfd8dc;
+  color: white;
+  background-color: #42545C;
 }
 button:disabled {
   background-color: #eee;
